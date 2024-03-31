@@ -1,0 +1,7 @@
+#all visual studio Files
+.vs/
+tres en raya.vcxproj.filters
+tres en raya.vcxproj.user
+tres en raya/
+x64/
+*.o
